@@ -1,2 +1,3 @@
 # BeeFense
-BeeFense est un projet de fin d'étude étudiant visant a créer un système d'analyse automatique du plateau pour détection des parasites (varroas,fausse teigne, cadavre d'abeille platrée)
+
+![poster BeeFense](https://user-images.githubusercontent.com/47553598/153717018-48f455f6-2fcb-46ce-80e6-4d6ce18444c6.jpg)
